@@ -1,6 +1,6 @@
-# Weekly Wins Meeting Resources
-Sounds, Loops, Templates & Images that can be used to run weekly wins meetings
-Background and discussion occuring @ Medium
+# Weekly Wins: Meeting Resources
+Sounds, Loops, Templates & Images that can be used to run weekly wins meetings.
+Details and discussion occuring @ Medium
 
 ## /sounds
 - /effects - short sound clips
