@@ -2,7 +2,7 @@
 Sounds, Loops, Templates & Images that can be used to run weekly wins meetings.
 Details and discussion occuring @ Medium
 
-![Preview](https://i.imgur.com/psqlkPP.gif)
+![Preview](https://i.imgur.com/XPr1qlC.gif)
 
 ## /sounds
 - /effects - short sound clips
