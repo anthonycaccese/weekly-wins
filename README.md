@@ -1,4 +1,4 @@
-# Weekly Wins: Meeting Resources
+# Weekly Wins: Resources
 Sounds, Loops, Templates & Images that can be used to run weekly wins meetings.
 Details and discussion occuring @ Medium
 
