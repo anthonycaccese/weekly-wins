@@ -2,12 +2,12 @@
 Sounds, Loops, Templates & Images that can be used to run weekly wins meetings.
 Details and discussion occuring @ Medium
 
-![Preview](https://i.imgur.com/9JQucWx.gif)
+![Preview](https://i.imgur.com/c2I4EKK.gif)
 
 ## /sounds
 - /effects - short sound clips
 - /loops - background loops
-- /quotes - moments of great dialog
+- /quotes - moments of great dialog =)
 - /farrago - prebuilt soundboards for use in Farrago
 
 ## Templates
