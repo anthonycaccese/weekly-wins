@@ -4,11 +4,10 @@ Details and discussion occuring @ Medium
 
 ![Preview](https://i.imgur.com/c2I4EKK.gif)
 
-## /sounds
+## Sounds
 - /effects - short sound clips
 - /loops - background loops
 - /quotes - moments of great dialog =)
-- /farrago - prebuilt soundboards for use in Farrago
 
 ## Templates
 - [Intro Slide Template](https://docs.google.com/presentation/d/1F3o0PdgPrABnQcfayje7ynvTqDVAAu5zIQPLF8OEzRg)
@@ -16,7 +15,7 @@ Details and discussion occuring @ Medium
 - [Hello / Goodbye Slide Templates](https://docs.google.com/presentation/d/1S4omk7VbqOvUhhgjgS_eFnU76_gqmmGl6WFg8MxvXuY)
 
 ### Intro Music
-- [Collaborative Spotify Playlist](https://open.spotify.com/playlist/2s1wvYOKBypnCOiFsrMyka?si=fypXm0EcR8-PyD_6ZiuFNw)
+- [Collaborative Spotify Playlist](https://open.spotify.com/playlist/2s1wvYOKBypnCOiFsrMyka?si=Tq94oQvaTSKSy_bo5ZXCCw)
 
 ## Acknowledgments
 Coming soon
