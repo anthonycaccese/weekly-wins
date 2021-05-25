@@ -5,9 +5,9 @@ Details and discussion occuring @ Medium
 ![Preview](https://i.imgur.com/c2I4EKK.gif)
 
 ## Sounds
-- /effects - short sound clips
-- /loops - background loops
-- /quotes - moments of great dialog =)
+- [/effects](https://github.com/anthonycaccese/weekly-wins/tree/master/sounds/effects) - short sound clips
+- [/loops](https://github.com/anthonycaccese/weekly-wins/tree/master/sounds/loops) - background loops
+- [/quotes](https://github.com/anthonycaccese/weekly-wins/tree/master/sounds/quotes) - moments of great dialog =)
 
 ## Templates
 - [Slide Templates](https://docs.google.com/presentation/d/1F3o0PdgPrABnQcfayje7ynvTqDVAAu5zIQPLF8OEzRg)
