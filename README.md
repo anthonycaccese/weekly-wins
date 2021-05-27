@@ -15,7 +15,7 @@ Details and discussion occuring @ Medium
 - [Outro Slide Examples](https://docs.google.com/presentation/d/1GxW82A4YlsJ1eW3Ttihd1G79rpDMrHLxpAyGMhDbZWM)
 - [Example Show](https://docs.google.com/presentation/d/1GwY8_59ePKAFzQ4UHciVTYtm_fJ7m2Uom7wyRtbS5lo)
 
-### Intro Music
+## Intro Music
 - [Collaborative Spotify Playlist](https://open.spotify.com/playlist/2s1wvYOKBypnCOiFsrMyka?si=Tq94oQvaTSKSy_bo5ZXCCw)
 
 ## Notes
