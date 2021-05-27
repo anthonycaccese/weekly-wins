@@ -19,4 +19,4 @@ Details and discussion occuring @ Medium
 - [Collaborative Spotify Playlist](https://open.spotify.com/playlist/2s1wvYOKBypnCOiFsrMyka?si=Tq94oQvaTSKSy_bo5ZXCCw)
 
 ## Notes
-All sound and quotes are copyright their respective rights holders.  They are here simply for the purpose of providing a fun element during standard meetings and are not to be sold.  Their goal in being here is to help provide a smile to people that work hard and build cool things each week.
+All sounds and quotes are copyright their respective rights holders.  They are here simply for the purpose of providing a fun element during standard meetings and are not to be sold.  Their goal in being here is to help provide a smile to people that work hard and build cool things each week.
