@@ -1,6 +1,6 @@
 # Weekly Wins: Resources
 Sounds, Loops, Templates & Images that can be used to run weekly wins meetings.
-Details and discussion occuring @ Medium
+Details and discussion can be found on my Medium post here: https://anthonycaccese.medium.com/how-we-our-teams-weekly-wins-d04696a5b8e4
 
 ![Preview](https://i.imgur.com/c2I4EKK.gif)
 
